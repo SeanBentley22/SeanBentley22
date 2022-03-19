@@ -2,5 +2,5 @@
 - My name's Sean and I'm CS Instructor. 
 - I'm using this profile to display a few of the teaching aids I have created during my time tutoring.
 - Also, to allow my students 24/7 access to them.
-- Please have a look in my repository named "SeanBentley22.github.io" for the code.
-- Which is published at https://seanbentley22.github.io/
+- Please have a look in my repository named "SeanBentley22.github.io" for the code,
+- which is published at https://seanbentley22.github.io/
